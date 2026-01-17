@@ -180,7 +180,7 @@ Combining analytical thinking from physics with practical coding skills.
 ---
 
 ## Contact
-  
+
 **GitHub:** [github.com/Johnny245-tx](https://github.com/Johnny245-tx)  
 **LinkedIn:** *(Coming soon)*  
 **Email:** orihuelajohnny1@gmail.com
